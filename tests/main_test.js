@@ -38,6 +38,3 @@ describe('Math', () => {
     });
   });
 });
-
-// Assertion documentation:
-// https://nodejs.org/api/assert.html
